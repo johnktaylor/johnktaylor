@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @johnktaylor
 - 👀 I’m interested in Software, Electronics and Artificial Intelligence
-- 🌱 I’m always learning!
 
 <!---
 johnktaylor/johnktaylor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
